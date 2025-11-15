@@ -57,3 +57,18 @@ button:active {
 p {
   margin-top: 20px;
 }
+
+.result {
+  font-size: 24px;
+  color: #fffefe;
+}
+
+#me {
+  font-weight: bold;
+  color: #f05;
+}
+
+#ai {
+  font-weight: bold;
+  color: #a91;
+}
